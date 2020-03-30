@@ -1,0 +1,36 @@
+.home {
+  margin: 10px 0;
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  top: 80px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJ8vIAi6ToT4nLx8zmT8Ct7ITaJFeWOy83W8WS4awlk1mnDMiS");
+  margin-bottom: 100px;
+}
+
+.content {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: blue;
+  font-size: 50px;
+}
+
+.title-welcom {
+  margin: unset;
+}
+
+.go-to-btn {
+  height: 60px !important;
+}
+
+.fixed-footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

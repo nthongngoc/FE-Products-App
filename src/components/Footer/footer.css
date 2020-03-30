@@ -1,0 +1,13 @@
+.footer {
+  height: 100px;
+  display: flex;
+  padding: 20px 35%;
+  background-color: black;
+  color: white !important;
+  font-size: 18px;
+}
+.part {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}

@@ -1,0 +1,18 @@
+.header {
+  font-size: 30px;
+  background-color: #00b33c;
+  height: 80px;
+  padding-top: 20px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.header-link {
+  margin-left: 20px;
+  text-decoration: unset;
+  color: white !important;
+}
+.header-link:hover {
+  color: #1a1aff !important;
+}

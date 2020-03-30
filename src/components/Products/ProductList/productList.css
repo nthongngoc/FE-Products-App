@@ -1,0 +1,23 @@
+.product-wrapper {
+  margin-top: 120px;
+}
+
+.items-list-wrapper {
+  top: 100px;
+  margin: 20px 0;
+  padding: 10px 20px;
+  display: flex;
+  background-color: #f5f5f5;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 16px;
+}
+
+.fixed-btn{
+  position: fixed;
+  margin: 0 20px ;
+}
+
+.title {
+  text-align: center;
+}

@@ -1,0 +1,47 @@
+.item-wrapper:hover {
+  box-shadow: 0 15px 15px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease-in-out;
+  transform: scale(1.05);
+}
+
+.item-wrapper {
+  border: 1px solid #f0f0f5;
+  border-radius: 5px;
+  width: 250px;
+  height: 400px;
+  padding: 10px 20px;
+  background-color: white;
+  margin: 10px;
+}
+
+.image-wrapper,
+img {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.name {
+  text-align: center;
+  margin: 10px auto;
+  font-size: 30px;
+}
+
+.properties {
+  display: flex;
+  justify-content: space-between;
+}
+
+.items-button {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 0 15px 0;
+}
+.detail-button {
+  width: 100px;
+  text-align: center;
+}
+span {
+  margin: unset;
+}
